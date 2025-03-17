@@ -10,10 +10,9 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/rahulgaur608"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rahul Gaur LinkedIn"/></a>
-  <a href="https://twitter.com/rahulgaur608"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Rahul Gaur Twitter"/></a>
+  <a href="https://www.linkedin.com/in/rahul-gaur-9570812a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rahul Gaur LinkedIn"/></a>
   <a href="mailto:rahulgaur608@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Rahul Gaur Email"/></a>
-  <a href="https://rahulgaur.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Rahul Gaur Portfolio"/></a>
+  <a href="https://portfolio-omega-nine-41.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Rahul Gaur Portfolio"/></a>
   <a href="https://github.com/rahulgaur608"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Rahul Gaur GitHub"/></a>
 </div>
 
@@ -27,11 +26,11 @@
 
 I'm Rahul Gaur, a passionate AI Engineer specializing in machine learning, deep learning, and artificial intelligence solutions. With expertise in building and deploying AI models, I focus on creating intelligent systems that solve real-world problems efficiently.
 
-- 🔭 I'm currently working on developing advanced AI models and the Auto Commit Scheduler tool
+- 🔭 I'm currently working on developing advanced AI models and computer vision systems
 - 🌱 I'm currently exploring Deep Learning architectures, MLOps, and Large Language Models
 - 👯 I'm looking to collaborate on AI/ML projects and open-source machine learning tools
 - 💬 Ask me about Machine Learning, Deep Learning, Neural Networks, and AI System Design
-- 📫 How to reach me: rahulgaur608@gmail.com or through my website rahulgaur.dev
+- 📫 How to reach me: rahulgaur608@gmail.com or through my website [portfolio-omega-nine-41.vercel.app](https://portfolio-omega-nine-41.vercel.app/)
 - ⚡ Fun fact: I love experimenting with new AI models and contributing to the AI community
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Rahul Gaur's Technical Skills
@@ -87,10 +86,9 @@ I'm Rahul Gaur, a passionate AI Engineer specializing in machine learning, deep 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Rahul Gaur's Projects
 
 <div align="center">
-  <a href="https://github.com/rahulgaur608/auto-commit-scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulgaur608&repo=auto-commit-scheduler&theme=radical" alt="Rahul Gaur's Auto Commit Scheduler" />
+  <a href="https://github.com/rahulgaur608/vision-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulgaur608&repo=vision-system&theme=radical" alt="Rahul Gaur's Vision System" />
   </a>
-  <!-- Add more project cards as you create them -->
 </div>
 
 <details>
@@ -98,16 +96,16 @@ I'm Rahul Gaur, a passionate AI Engineer specializing in machine learning, deep 
   <br>
   <table>
     <tr>
-      <td><b>🛒 E-commerce Platform</b></td>
-      <td>Built by Rahul Gaur: A scalable online shopping platform with React, Node.js, and MongoDB</td>
+      <td><b>🧠 Neural Networks Framework</b></td>
+      <td>Built by Rahul Gaur: A comprehensive collection of custom neural network architectures with PyTorch and TensorFlow</td>
     </tr>
     <tr>
-      <td><b>📊 Data Analytics Dashboard</b></td>
-      <td>Created by Rahul Gaur: Interactive visualizations for business metrics using D3.js and Python</td>
+      <td><b>📊 ML Pipeline Framework</b></td>
+      <td>Created by Rahul Gaur: End-to-end machine learning pipeline with MLflow and Kubeflow integration</td>
     </tr>
     <tr>
-      <td><b>💳 Mobile Payment App</b></td>
-      <td>Developed by Rahul Gaur: A secure payment processing application with React Native and Firebase</td>
+      <td><b>🤖 Deep Learning Models</b></td>
+      <td>Developed by Rahul Gaur: State-of-the-art implementations for computer vision, NLP, and reinforcement learning</td>
     </tr>
   </table>
 </details>
@@ -139,16 +137,13 @@ I'm Rahul Gaur, a passionate AI Engineer specializing in machine learning, deep 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="48"> Connect With Rahul Gaur
 
 <div align="center">
-  <a href="https://linkedin.com/in/rahulgaur608">
+  <a href="https://www.linkedin.com/in/rahul-gaur-9570812a3/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul Gaur LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/rahulgaur608">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahul Gaur Twitter" height="30" width="40" />
   </a>
   <a href="mailto:rahulgaur608@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Rahul Gaur Email" height="30" width="30" />
   </a>
-  <a href="https://rahulgaur.dev">
+  <a href="https://portfolio-omega-nine-41.vercel.app/">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Rahul Gaur Website" height="30" width="30" />
   </a>
 </div>
@@ -182,13 +177,11 @@ I'm Rahul Gaur, a passionate AI Engineer specializing in machine learning, deep 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulgaur608/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/rahulgaur608"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://www.linkedin.com/in/rahul-gaur-9570812a3/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:rahulgaur608@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/bWGnvdL.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://rahulgaur.dev"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://portfolio-omega-nine-41.vercel.app/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtbXJsZnRxaWIyOHd0ZnJ5Y3Jlc2NlNGF1MWZyZWFqcWJiYnRmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
